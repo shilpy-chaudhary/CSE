@@ -1,2 +1,2 @@
-# C++-Basic Questions
-This contain some basic questions .
+# CSE codes
+This repository contains code of some problems..
