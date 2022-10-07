@@ -25,4 +25,5 @@ int main(void) {
       cout<< num <<" is present at index "<< index <<" in the array";
    }
    return 0;
+}
 
