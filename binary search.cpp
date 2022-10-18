@@ -1,6 +1,6 @@
 #include
 using namespace std;
-int binarySearch(int arr[], int p, int r, int num) {
+int binarySearch(int arr[], int p, int r, int num) 
    if (p <= r) {
       int mid = (p + r)/2;
       if (arr[mid] == num)
